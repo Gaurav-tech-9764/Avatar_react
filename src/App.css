@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+h1{
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #00ffea;
+}
 
 .App-logo {
   height: 40vmin;
@@ -14,7 +19,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #34282a;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
